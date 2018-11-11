@@ -17,7 +17,8 @@
       <pubDate>Sat, 14 May 2016 22:46:22 +0800</pubDate>
       
       <guid>https://cljios.github.io/post/first/</guid>
-      <description>###动画类型 1. 关键帧动画，基本动画，自定义动画，隐式动画</description>
+      <description>动画类型
+ 关键帧动画，基本动画，自定义动画，隐式动画  </description>
     </item>
     
     <item>
@@ -26,7 +27,8 @@
       <pubDate>Sun, 13 Sep 2015 23:39:16 +0800</pubDate>
       
       <guid>https://cljios.github.io/post/second/</guid>
-      <description>####设计模式作用 1. 帮助构建易扩展、易维护、低耦合的程序架构</description>
+      <description>设计模式作用
+ 帮助构建易扩展、易维护、低耦合的程序架构  </description>
     </item>
     
     <item>
@@ -35,7 +37,7 @@
       <pubDate>Sat, 20 Jun 2015 22:45:57 +0800</pubDate>
       
       <guid>https://cljios.github.io/about/</guid>
-      <description>####iOS 程序猿一枚，喜欢思考。</description>
+      <description>iOS 程序猿一枚，喜欢思考。</description>
     </item>
     
   </channel>
