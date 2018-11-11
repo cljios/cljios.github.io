@@ -3,34 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://cljios.github.io/about/</loc>
-    <lastmod>2018-11-11T16:54:30+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cljios.github.io/post/first/</loc>
-    <lastmod>2011-11-11T16:56:38+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://cljios.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://cljios.github.io/</loc>
-    <lastmod>2018-11-11T16:54:30+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://cljios.github.io/post/</loc>
-    <lastmod>2011-11-11T16:56:38+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://cljios.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://cljios.github.io/</loc>
     <priority>0</priority>
   </url>
   
